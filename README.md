@@ -1,9 +1,9 @@
 # Hi, I'm Sangam S M 👋
 
-I build **privacy tools** that protect users from 
+I build **privacy tools** that protect users from
 browser tracking, fingerprinting, and surveillance.
 
-🌐 [devilsnode.online](https://devilsnode.online) — 
+🌐 [devilsnode.online](https://devilsnode.online) •
 📧 contact@devilsnode.online
 
 ---
@@ -11,27 +11,28 @@ browser tracking, fingerprinting, and surveillance.
 ## 🛡 What I Built
 
 ### ShadowWall — Browser Privacy Extension
-> The only extension that sends **fake camera and mic 
+> The only extension that sends **fake camera and mic
 > streams** to websites instead of blocking them.
 
-- 41 security features — fingerprint blocking, 
-  keylogger protection, WebRTC leak prevention
+- 41 security features
 - Canvas, WebGL, Audio fingerprint spoofing
+- WebRTC IP leak prevention
+- Keylogger blocking, password field encryption
 - Tracker blocking — 100,000+ domains
-- Context isolation — completely invisible to websites
+- Context isolation — invisible to websites
 - Manifest V3 — all Chromium browsers
 
-📥 [Download](https://archive.org/download/shadowwall) • 
-🔍 [Proof & Tests](https://github.com/Sangam-SM/ShadowWall-Proof) • 
-📝 [Blog Post](https://devilsnode.blogspot.com)
+📥 [Download](https://archive.org/download/shadowwall) •
+🔍 [Proof & Tests](https://github.com/Sangam-SM/ShadowWall-Proof) •
+🌐 [Website](https://devilsnode.online)
 
 ---
 
 ### DevilsCaptcha ⟳ In Development
-Privacy-respecting CAPTCHA — no tracking, no Google, 
+Privacy-respecting CAPTCHA — no tracking, no Google,
 no fingerprinting
 
-### DevilsMail ◎ Planned  
+### DevilsMail ◎ Planned
 Zero-log email alias system — no identity required
 
 ---
@@ -51,9 +52,9 @@ Zero-log email alias system — no identity required
 
 ## 📊 GitHub Stats
 
-![Sangam's GitHub stats](![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangam-SM&show_icons=true&theme=dark&hide_border=true&include_all_commits=true))
+<img src="https://github-readme-stats.vercel.app/api?username=Sangam-SM&show_icons=true&theme=dark&hide_border=true" />
 
 ---
 
-*"Privacy is not about having something to hide.  
-It's about having the power to choose what to show."*
+*"Privacy is not about having something to hide.*
+*It's about having the power to choose what to show."*
