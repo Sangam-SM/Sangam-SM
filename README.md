@@ -19,11 +19,11 @@ browser tracking, fingerprinting, and surveillance.
 - WebRTC IP leak prevention
 - Keylogger blocking, password field encryption
 - Tracker blocking — 100,000+ domains
-- Context isolation — invisible to websites
-- Manifest V3 — all Chromium browsers
+- Completely invisible to websites
+- Works on all Chromium browsers
 
 📥 [Download](https://archive.org/download/shadowwall) •
-🔍 [Proof & Tests](https://github.com/Sangam-SM/ShadowWall-Proof) •
+🔍 [Proof](https://github.com/Sangam-SM/ShadowWall-Proof) •
 🌐 [Website](https://devilsnode.online)
 
 ---
@@ -47,12 +47,6 @@ Zero-log email alias system — no identity required
 | Email Infrastructure | Brevo SMTP, custom domain routing pipeline |
 | Chrome Extensions | Manifest V3, content scripts, service workers |
 | Privacy Engineering | GDPR concepts, tracker blocking, fingerprint spoofing |
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sangam-SM&show_icons=true&theme=dark&hide_border=true" />
 
 ---
 
