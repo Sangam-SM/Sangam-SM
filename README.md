@@ -51,7 +51,7 @@ Zero-log email alias system — no identity required
 
 ## 📊 GitHub Stats
 
-![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangam-SM&show_icons=true&theme=dark)
+![Sangam's GitHub stats](![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangam-SM&show_icons=true&theme=dark&hide_border=true&include_all_commits=true))
 
 ---
 
