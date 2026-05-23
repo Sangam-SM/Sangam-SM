@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Sangam S M 👋
 
-<!--
-**Sangam-SM/Sangam-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **privacy tools** that protect users from 
+browser tracking, fingerprinting, and surveillance.
 
-Here are some ideas to get you started:
+🌐 [devilsnode.online](https://devilsnode.online) — 
+📧 contact@devilsnode.online
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡 What I Built
+
+### ShadowWall — Browser Privacy Extension
+> The only extension that sends **fake camera and mic 
+> streams** to websites instead of blocking them.
+
+- 41 security features — fingerprint blocking, 
+  keylogger protection, WebRTC leak prevention
+- Canvas, WebGL, Audio fingerprint spoofing
+- Tracker blocking — 100,000+ domains
+- Context isolation — completely invisible to websites
+- Manifest V3 — all Chromium browsers
+
+📥 [Download](https://archive.org/download/shadowwall) • 
+🔍 [Proof & Tests](https://github.com/Sangam-SM/ShadowWall-Proof) • 
+📝 [Blog Post](https://devilsnode.blogspot.com)
+
+---
+
+### DevilsCaptcha ⟳ In Development
+Privacy-respecting CAPTCHA — no tracking, no Google, 
+no fingerprinting
+
+### DevilsMail ◎ Planned  
+Zero-log email alias system — no identity required
+
+---
+
+## 🔧 Built With Real Hands-On Experience
+
+| Area | What I Actually Did |
+|------|-------------------|
+| DNS | Configured A, MX, TXT, CNAME, SPF, DKIM, DMARC |
+| Cloudflare | CDN, Pages hosting, Email Routing, DDoS |
+| Browser Security | WebRTC leaks, canvas fingerprinting, CSP headers |
+| Email Infrastructure | Brevo SMTP, custom domain routing pipeline |
+| Chrome Extensions | Manifest V3, content scripts, service workers |
+| Privacy Engineering | GDPR concepts, tracker blocking, fingerprint spoofing |
+
+---
+
+## 📊 GitHub Stats
+
+![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangam-SM&show_icons=true&theme=dark)
+
+---
+
+*"Privacy is not about having something to hide.  
+It's about having the power to choose what to show."*
